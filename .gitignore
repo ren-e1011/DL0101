@@ -1,0 +1,16 @@
+**/.DS_Store
+**/.ipynb_checkpoints
+
+
+# don't track data -- better or worse practice..confirm corruption?
+GalaxyDataset/**
+Tutorial2/Dataset.zip
+
+#up to Tutorial 3
+
+#ignore output models
+Tutorial2/*.pt
+
+Tutorial2/clas.csv
+
+
